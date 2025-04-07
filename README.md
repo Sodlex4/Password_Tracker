@@ -20,5 +20,5 @@ Ensure you have a modern web browser such as Chrome, Firefox, or Safari. No back
 ### Installation
 
 1. **Clone the repository** to your local machine:
-   ```bash
-   git clone https://github.com/Sodlex4/Password_Tracker
+   https://github.com/Sodlex4/Password_Tracker
+   
